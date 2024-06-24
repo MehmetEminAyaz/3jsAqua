@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ceiling window and frame
+* source:	https://sketchfab.com/3d-models/ceiling-window-and-frame-7eaba7ae05ed474dae0c691bf2c45e07
+* author:	Sousinho (https://sketchfab.com/sousinho)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

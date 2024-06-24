@@ -1,0 +1,8 @@
+Model Information:
+* title:	3D Scanned Shell | iPhone 15 Pro | RealityKit
+* source:	https://sketchfab.com/3d-models/3d-scanned-shell-iphone-15-pro-realitykit-07ad6f7777ad453eab8a960f2d78e457
+* author:	a-python-script (https://sketchfab.com/a-python-script)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

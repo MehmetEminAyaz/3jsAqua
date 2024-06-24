@@ -1,0 +1,8 @@
+Model Information:
+* title:	Mandalorian Helmet
+* source:	https://sketchfab.com/3d-models/mandalorian-helmet-64cacbd3d2fa43f187a9c48c281ee725
+* author:	Juani Forn (https://sketchfab.com/juanmartin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Grass
+* source:	https://sketchfab.com/3d-models/grass-4f8d59e086f0499796fa12f14d4df5c4
+* author:	Kon (https://sketchfab.com/Mafrts852901e8ab5e4160)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

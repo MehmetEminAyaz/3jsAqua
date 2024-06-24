@@ -1,0 +1,8 @@
+Model Information:
+* title:	Crab Rock Scan
+* source:	https://sketchfab.com/3d-models/crab-rock-scan-69a486940c274b32948aadaf456af36a
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sci-Fi Crate 2K Textures
+* source:	https://sketchfab.com/3d-models/sci-fi-crate-2k-textures-27a040d1358141d7a83efb62da86c962
+* author:	Shadow (https://sketchfab.com/Shad8xr)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
