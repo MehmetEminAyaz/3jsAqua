@@ -1,5 +1,19 @@
 {
   "dependencies": {
-    "dat.gui": "^0.7.9"
+    "yuka": "^0.7.8"
+  },
+  "name": "threejsaquarium",
+  "version": "1.0.0",
+  "description": "Demo app for importing a .gltf model using Three.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/three": "^0.165.0",
+    "@types/yuka": "^0.7.4"
   }
 }
